@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Sridhar P</title>
+    <link>https://sridhar-sdr.github.io/Portfolionew/</link>
+    <description>Recent content in Welcome on Sridhar P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2020 11:13:32 -0400</lastBuildDate><atom:link href="https://sridhar-sdr.github.io/Portfolionew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Object detection and segmentation using Masked RCNN</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-310/</link>
+      <pubDate>Mon, 26 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-310/</guid>
+      <description>segmentation
+In digital image processing and computer vision, image segmentation is the process of partitioning a digital image into multiple segments (sets of pixels, also known as image objects).
+Object Detection
+Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.
+Blog
+Video Demo</description>
+    </item>
+    
+    <item>
+      <title>Face detection using HAAR cascade Classifier</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-31/</link>
+      <pubDate>Tue, 20 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-31/</guid>
+      <description>Hey there,
+In this project, We are going to see how to detect the Google CEO eye, face, and smile using his picture.
+Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images.
+Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, “Rapid Object Detection using a Boosted Cascade of Simple Features” in 2001.</description>
+    </item>
+    
+    <item>
+      <title>Human Activity Recognition</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-2/</guid>
+      <description>Note:
+This is hands on case study which I did during course at Applied machine learning.
+Credit : AAIC private limited
+This project is to build a model that predicts the human activities such as Walking, WalkingUpstairs, WalkingDownstairs, Sitting, Standing or Laying. This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone.</description>
+    </item>
+    
+    <item>
+      <title> Car price prediction with deployment using herokuapp </title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-1/</link>
+      <pubDate>Wed, 02 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-1/</guid>
+      <description>This project is required to predict the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.</description>
+    </item>
+    
+    <item>
+      <title>Haberman Survival data data set</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/chapter-3/</link>
+      <pubDate>Mon, 02 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/chapter-3/</guid>
+      <description>Here ,I have done my first Exploratory Data Analysis on haberman data set:
+In statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods
+Data set explanation: The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago&amp;rsquo;s Billings Hospital on the survival of patients who had undergone surgery for breast cancer.</description>
+    </item>
+    
+    <item>
+      <title>Haberman Survival data data set</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-3/</link>
+      <pubDate>Mon, 02 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-3/</guid>
+      <description>Here ,I have done my first Exploratory Data Analysis on haberman data set:
+In statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods
+Data set explanation: The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago&amp;rsquo;s Billings Hospital on the survival of patients who had undergone surgery for breast cancer.</description>
+    </item>
+    
+    <item>
+      <title>Street light Engineer visit prediction</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/post/chapter-30/</link>
+      <pubDate>Mon, 02 Dec 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/post/chapter-30/</guid>
+      <description>Description
+Schnell Energy equipment private limited provides solutions that include energy saving modules, energy efficient lamps, street light controllers, individual monitoring and control of lamps and Automatic meter reading (AMR) systems.
+The Schnell Energy Saver is one such solution to reduce energy demand and to promote modernization and automation in the lighting sector. Globally, lighting in industrial as well as public sectors consumes around 4–5% of the total electricity generation. Energy saver promises a minimum of 30% reduction in the baseline energy consumption.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sridhar-sdr.github.io/Portfolionew/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Portfolionew/contact/</guid>
+      <description>Follow me on social media platforms      Platform URL    YouTube: (https://www.youtube.com/channel/UCfkmy8TwylXuO8j6HE3OAeA)
+LinkedIn: (https://www.linkedin.com/in/sridhar-p-10bb2490/)
+Medium: (https://medium.com/@psridhar1996)
+GitHub: (https://github.com/sridhar-sdr)</description>
+    </item>
+    
+  </channel>
+</rss>
